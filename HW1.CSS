@@ -1,0 +1,24 @@
+/*Style sheet created for HTML file(external). It is possible to reuse this file as many times as you would like.*/
+h1{
+   color:#000000;
+   Text-align:center;
+   text-transform: uppercase;
+}
+header{
+background-color:#6495ED;
+}
+a{
+background-color:#F0FFFF;
+color:#000000;
+}
+h2{
+color: #0000ff;
+text-transform: uppercase;
+}
+aside {
+Display:none;
+}
+section{
+background-color:#B0E0E6;
+}
+
